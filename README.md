@@ -1,4 +1,5 @@
 # IntoWildHimalaya-MERN-
 Tour , Trekking &amp; Activities booking website using [ MongoDB, ReactJs and NodeJs ]
 
-Admin Link : into-wild-himalaya-admin.vercel.app
+Main Website Link : wild-himalayas-mern.vercel.app/
+Admin Link : into-wild-himalaya-admin.vercel.app/
